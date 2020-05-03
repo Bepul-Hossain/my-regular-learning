@@ -12,6 +12,9 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 1. [passport-jwt](https://www.npmjs.com/package/passport-jwt)
 2. [auth0](https://www.youtube.com/watch?v=QcO8hzIC79A)
 
+### git hub
+[switch gitbu one accout to another](https://www.youtube.com/watch?v=aSTTJd5JMXg)
+
 |  mongodb |  node module |   |   |   |
 |---|---|---|---|---|
 |   |   |   |   |   |
