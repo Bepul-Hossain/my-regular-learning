@@ -13,7 +13,7 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 2. [auth0](https://www.youtube.com/watch?v=QcO8hzIC79A)
 
 ### git hub
-switch gitbu one accout to another[Credential manager](https://www.youtube.com/watch?v=aSTTJd5JMXg) [image](assets/credential_manager.png)
+switch github one accout to another by Credential manager [video ](https://www.youtube.com/watch?v=aSTTJd5JMXg) [  image](assets/image/credential_manager.png)
 
 |  mongodb |  node module |   |   |   |
 |---|---|---|---|---|
