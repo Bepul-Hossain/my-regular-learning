@@ -12,8 +12,8 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 1. [passport-jwt](https://www.npmjs.com/package/passport-jwt)
 2. [auth0](https://www.youtube.com/watch?v=QcO8hzIC79A)
 3. lite-server [documentation][1] [vidio][2]
-[1]: https://www.coursera.org/learn/bootstrap-4/supplement/JTkjO/exercise-instructions-basics-of-node-js-and-npm
-[2](https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm)
+[1]: (https://www.coursera.org/learn/bootstrap-4/supplement/JTkjO/exercise-instructions-basics-of-node-js-and-npm)
+[2]: (https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm)
 
 ### git hub
 [Awesome git-cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo)
