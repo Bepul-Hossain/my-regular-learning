@@ -29,7 +29,7 @@ PS E:\Web Development\coursera\css> less styles.less styles.css
 ### git hub
 [Awesome git-cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo)
 
-Switch github one accout to another by Credential manager [video ](https://www.youtube.com/watch?v=aSTTJd5JMXg) [  image](assets/image/credential_manager.png)
+Switch github one accout to another by Credential manager [video ](https://www.youtube.com/watch?v=aSTTJd5JMXg) [  image](assets/img/credential_manager.png)
 
 |  mongodb |  node module |   |   |   |
 |---|---|---|---|---|
