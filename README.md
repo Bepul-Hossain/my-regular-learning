@@ -51,6 +51,8 @@ PS E:\Web Development\coursera\css> less styles.less styles.css
 
 [Awesome git-cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo)
 
+Back to specific older  HEAD on git commit [image](assets/img/Back to git specific commit.PNG) [video](https://www.youtube.com/watch?v=yLNl6kpaVD4&t=1s)
+
 Switch github one accout to another by Credential manager [video ](https://www.youtube.com/watch?v=aSTTJd5JMXg) [ image](assets/img/credential_manager.png)
 
 Git disable so cannot perform hold changes [@builtin git](https://www.youtube.com/watch?v=nFzQnl44_70)
