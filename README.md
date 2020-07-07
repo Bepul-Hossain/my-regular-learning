@@ -9,6 +9,8 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 
 **_MONGO DB Cheat sheat_** 1. [MongoDB commands](https://gist.github.com/ondrejsika/ded2a9a22c96cda7098d69b5f158cd8a) 2. [SQL to MongoDB Mapping Chart](https://gist.github.com/aponxi/4380516) 3. [Essential MongoDB Shell Commands](https://www.opentechguides.com/how-to/article/mongodb/118/mongodb-cheatsheat.html) 4. cheat sheat pdf [here](https://github.com/Bepul-Hossain/my-regular-learning/blob/master/assets/pdf/MongoDB-CheatSheet-v1_0.pdf)
 
+** Mongo doc** 1. [Coursera-doc](https://docs.google.com/document/d/1XcohKmVhRRO8IOJHkjpVVGWvmmp10724Gs_Lp1Rr-1Y/edit?usp=sharing)
+
 ### node module
 
 1. [passport-jwt](https://www.npmjs.com/package/passport-jwt)
@@ -17,6 +19,8 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 
 [1]: https://www.coursera.org/learn/bootstrap-4/supplement/JTkjO/exercise-instructions-basics-of-node-js-and-npm
 [2]: https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm
+
+4. [yarn](https://classic.yarnpkg.com/en/docs/cli/create)
 
 ### Less
 
@@ -51,7 +55,7 @@ PS E:\Web Development\coursera\css> less styles.less styles.css
 
 [Awesome git-cheatsheet](http://ndpsoftware.com/git-cheatsheet.html#loc=local_repo)
 
-Back to specific older  HEAD on git commit [image](assets/img/Back_o_git_specific_commit.PNG) [video](https://www.youtube.com/watch?v=yLNl6kpaVD4&t=1s)
+Back to specific older HEAD on git commit [image](assets/img/Back_o_git_specific_commit.PNG) [video](https://www.youtube.com/watch?v=yLNl6kpaVD4&t=1s)
 
 Switch github one accout to another by Credential manager [video ](https://www.youtube.com/watch?v=aSTTJd5JMXg) [ image](assets/img/credential_manager.png)
 
