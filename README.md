@@ -9,7 +9,7 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 
 **_MONGO DB Cheat sheat_** 1. [MongoDB commands](https://gist.github.com/ondrejsika/ded2a9a22c96cda7098d69b5f158cd8a) 2. [SQL to MongoDB Mapping Chart](https://gist.github.com/aponxi/4380516) 3. [Essential MongoDB Shell Commands](https://www.opentechguides.com/how-to/article/mongodb/118/mongodb-cheatsheat.html) 4. cheat sheat pdf [here](https://github.com/Bepul-Hossain/my-regular-learning/blob/master/assets/pdf/MongoDB-CheatSheet-v1_0.pdf)
 
-** Mongo doc** 1. [Coursera-doc](https://docs.google.com/document/d/1XcohKmVhRRO8IOJHkjpVVGWvmmp10724Gs_Lp1Rr-1Y/edit?usp=sharing)
+** Mongo doc** 1. [Coursera Exercise (Instructions): Introduction to MongoDB](https://docs.google.com/document/d/1Cvzz4izfvO67k_AwIeEENX8hQ6P1fANcoPqdTAvp19s/edit?usp=sharing)
 
 ### node module
 
