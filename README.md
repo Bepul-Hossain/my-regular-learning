@@ -11,16 +11,9 @@ connect@src/mongo/shell/mongo.js:341:17 [here](https://www.youtube.com/watch?v=x
 
 ** Mongo doc** 1. [Coursera Exercise (Instructions): Introduction to MongoDB](https://docs.google.com/document/d/1Cvzz4izfvO67k_AwIeEENX8hQ6P1fANcoPqdTAvp19s/edit?usp=sharing)
 
-### node module
+ ### All node modules docfile [here](https://docs.google.com/document/d/1uj0gDlVw6b-JE93-Su1ZrbAMTCIypofRrkFp_JAaLRc/edit?usp=sharing)
 
-1. [passport-jwt](https://www.npmjs.com/package/passport-jwt)
-2. [auth0](https://www.youtube.com/watch?v=QcO8hzIC79A)
-3. lite-server [documentation][1] [video][2]
 
-[1]: https://www.coursera.org/learn/bootstrap-4/supplement/JTkjO/exercise-instructions-basics-of-node-js-and-npm
-[2]: https://www.coursera.org/learn/bootstrap-4/lecture/L3Q8S/exercise-video-basics-of-node-js-and-npm
-
-4. [yarn](https://classic.yarnpkg.com/en/docs/cli/create)
 
 ### Less
 
