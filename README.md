@@ -54,6 +54,26 @@ Switch github one accout to another by Credential manager [video ](https://www.y
 
 Git disable so cannot perform hold changes [@builtin git](https://www.youtube.com/watch?v=nFzQnl44_70)
 
+1. merge from dev
+```
+i) git checkout dev
+ii) git pull
+iii) then checkout to your 'specific-branch'
+iv) git merge dev
+```
+2. rebase by dev
+```
+i) git checkout dev
+ii) git pull
+iii) then checkout to your 'specific-branch'
+iv) git rebase dev
+
+OR
+i) git fetch origin dev
+ii) git rebase origin/dev
+```
+
+
 | mongodb | node module |     |     |     |
 | ------- | ----------- | --- | --- | --- |
 |         |             |     |     |     |
